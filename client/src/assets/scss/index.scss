@@ -1,0 +1,13 @@
+// MAIN
+@import './reset.scss';
+@import './main.scss';
+@import './variables';
+
+// PAGES
+@import './pages/home.scss';
+@import './pages/notFound.scss';
+@import './pages/auth/profil.scss';
+
+// COMPONENTS
+@import './components/navbar.scss';
+@import './components/footer.scss';
